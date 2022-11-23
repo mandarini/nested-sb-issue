@@ -51,8 +51,8 @@
     "@nrwl/react": {
       "application": {
         "style": "css",
-        "unitTestRunner": "none",
-        "linter": "none",
+        "unitTestRunner": "jest",
+        "linter": "eslint",
         "babel": true
       },
       "component": {
@@ -60,8 +60,8 @@
       },
       "library": {
         "style": "css",
-        "unitTestRunner": "none",
-        "linter": "none"
+        "unitTestRunner": "jest",
+        "linter": "eslint"
       }
     },
     "@nrwl/angular:application": {
