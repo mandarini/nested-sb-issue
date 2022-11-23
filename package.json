@@ -49,6 +49,7 @@
     "@nrwl/webpack": "7777.88.1",
     "@nrwl/workspace": "7777.88.1",
     "@storybook/addon-essentials": "~6.5.9",
+    "@storybook/angular": "~6.5.9",
     "@storybook/builder-webpack5": "~6.5.9",
     "@storybook/core-server": "~6.5.9",
     "@storybook/manager-webpack5": "~6.5.9",
@@ -81,7 +82,8 @@
     "vite": "^3.0.5",
     "vite-plugin-eslint": "^1.6.0",
     "vite-tsconfig-paths": "^3.5.2",
-    "vitest": "^0.25.1"
+    "vitest": "^0.25.1",
+    "webpack": "^5.64.0"
   },
   "resolutions": {
     "enhanced-resolve": "5.10.0"
