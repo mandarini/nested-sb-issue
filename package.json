@@ -1,0 +1,42 @@
+{
+  "name": "nested-two",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "nx serve",
+    "build": "nx build",
+    "test": "nx test"
+  },
+  "private": true,
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "regenerator-runtime": "0.13.7",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@nrwl/cli": "7777.88.1",
+    "@nrwl/cypress": "7777.88.1",
+    "@nrwl/nx-cloud": "latest",
+    "@nrwl/react": "7777.88.1",
+    "@nrwl/vite": "7777.88.1",
+    "@nrwl/web": "7777.88.1",
+    "@nrwl/workspace": "7777.88.1",
+    "@testing-library/react": "13.4.0",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
+    "@vitest/ui": "^0.9.3",
+    "cypress": "^11.0.0",
+    "nx": "7777.88.1",
+    "prettier": "^2.6.2",
+    "react-test-renderer": "18.2.0",
+    "typescript": "~4.8.2",
+    "vite": "^3.0.5",
+    "vite-plugin-eslint": "^1.6.0",
+    "vite-tsconfig-paths": "^3.5.2",
+    "vitest": "^0.25.1"
+  }
+}
